@@ -1,2 +1,0 @@
-# bitstamp-app
-online disruption
